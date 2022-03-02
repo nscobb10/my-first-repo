@@ -1,4 +1,4 @@
-<!https://nscobb10.github.io/my-first-repo html>
+<!https://nscobb10.github.io/my-first-repo>
 		<html>
 		  <head>
 			<meta charset="utf-8">
